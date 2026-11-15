@@ -1,0 +1,10 @@
+{
+  "production": {
+    "api_base": "https://meshwari.mdarahim.app/api/v2",
+    "ws_url": "wss://meshwari.mdarahim.app/realtime/customer/v2"
+  },
+  "staging": {
+    "api_base": "https://mestest.osostel.com/api/v2",
+    "ws_url": "wss://mestest.osostel.com/realtime/customer/v2"
+  }
+}
