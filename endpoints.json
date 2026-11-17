@@ -6,7 +6,7 @@
   "staging": {
     "api_base": "https://mestest.osostel.com/api/v2",
     "ws_url": "wss://mestest.osostel.com/realtime/customer/v2"
-  }
+  },
   "driver": {
     "production": { "origin": "https://mestest.osostel.com" },
     "staging":    { "origin": "https://mestest.osostel.com" }
