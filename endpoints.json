@@ -9,7 +9,7 @@
   },
   "driver": {
     "production": {
-      "origin": "https://meshwari.mdarahim.app"
+      "origin": "https://mestest.osostel.com"
     },
     "staging": {
       "origin": "https://mestest.osostel.com"
